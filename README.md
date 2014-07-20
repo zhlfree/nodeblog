@@ -5,13 +5,23 @@
 
 #Test request  
 
-POST   http://localhost:3000/users 
-[save](https://github.com/defshine/nodeblog/blob/master/public/images/save.png)  
+POST   http://localhost:3000/usersi  
+
+![save](https://github.com/defshine/nodeblog/blob/master/public/images/save.png)  
+
 GET    http://localhost:3000/users  
-[list all](https://github.com/defshine/nodeblog/blob/master/public/images/list.png)
+
+![list all](https://github.com/defshine/nodeblog/blob/master/public/images/list.png)  
+
 GET    http://localhost:3000/users/defshine  
-[get](https://github.com/defshine/nodeblog/blob/master/public/images/getByName.png)
-PUT    http://localhost:3000/users/defshine  
-[update](https://github.com/defshine/nodeblog/blob/master/public/images/update.png)
-DELETE http://localhost:3000/users/defshine
-[delete](https://github.com/defshine/nodeblog/blob/master/public/images/delete.png)
+
+![get](https://github.com/defshine/nodeblog/blob/master/public/images/getByName.png)  
+
+PUT    http://localhost:3000/users/defshine   
+
+![update](https://github.com/defshine/nodeblog/blob/master/public/images/update.png)  
+
+DELETE http://localhost:3000/users/defshine  
+
+![delete](https://github.com/defshine/nodeblog/blob/master/public/images/delete.png)  
+
