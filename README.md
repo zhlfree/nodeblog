@@ -5,7 +5,7 @@
 
 #Test request  
 
-POST   http://localhost:3000/usersi  
+POST   http://localhost:3000/users  
 
 ![save](https://github.com/defshine/nodeblog/blob/master/public/images/save.png)  
 
